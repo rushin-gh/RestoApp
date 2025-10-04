@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "parcel": "^2.16.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "name": "react_restoapp",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushin-gh/RestoApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushin-gh/RestoApp/issues"
+  },
+  "homepage": "https://github.com/rushin-gh/RestoApp#readme"
+}
